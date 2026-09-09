@@ -1,0 +1,7 @@
+{ 
+    "functions": {
+       "api/num.js": {
+           "maxDuration": 10
+        }
+     }
+}
